@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @andy-lenard
 - 👀 I’m interested in R, Python
 - 🌱 I’m currently learning Postman, more R and Python
-- 💞️ I’m looking to collaborate on utilizing LMS data analytics to provide academic insights as well as building an investigative toolkit  
+- 💞️ I'm excited to explore potential collaborations using LMS data analytics to provide valuable academic insights
+-    and develop an investigative toolkit for troubleshooting.
 - 📫 How to reach me - @andy-lenard
 
 <!---
